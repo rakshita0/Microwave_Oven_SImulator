@@ -1,1 +1,1 @@
-# Microwave_Oven_SImulator
+# Microwave_Oven_Simulator

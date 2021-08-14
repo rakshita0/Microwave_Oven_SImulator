@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\Microwave_Oven.X.production.hex">
+    <memory name="program">
+      <units>words</units>
+      <length>8192</length>
+      <used>2475</used>
+      <free>5717</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>368</length>
+      <used>49</used>
+      <free>319</free>
+    </memory>
+  </executable>
+</project>

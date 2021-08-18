@@ -15,6 +15,16 @@ Both the above 2 softwares are used to execute the code.
 3. Using [PICSimLab](https://sourceforge.net/projects/picsim/) this link you can download the simulator to run the code.
 
 # Configuration and Functions Used
+To execute the 4 main basic modes of a microwave and also display the screen according to the requirement below are some of the function which were used:
 
-<img src = "Images/github-modes.PNG">
+<p align="center">
+  <img src="./Images/modes.PNG" width="550
+title="Figure: 1"
+</p>
+                 
+- **Micro Mode:** 
+''' 
+    
+                
+
 

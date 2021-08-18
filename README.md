@@ -16,4 +16,5 @@ Both the above 2 softwares are used to execute the code.
 
 # Configuration and Functions Used
 
-![](modes.PNG)
+![](Images/github-modes.PNG)
+

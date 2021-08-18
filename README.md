@@ -15,3 +15,5 @@ Both the above 2 softwares are used to execute the code.
 3. Using [PICSimLab](https://sourceforge.net/projects/picsim/) this link you can download the simulator to run the code.
 
 # Configuration and Functions Used
+
+![](modes.PNG)
